@@ -2,11 +2,11 @@
 '''
   str[startingIndex : endingIndex] ======> endIndex is not included
 
-  when we don't specify both startingIndex and endingIndex, python automatically takes 0th for startingIndex and length of the string for endingIndex
+  when we don't specify both startingIndex and endingIndex i.e [ : ], python automatically takes 0th for startingIndex and length of the string for endingIndex
 
-  when we dont provide startingIndex but only provide endingIndex, python takes 0th index as the startingIndex
+  when we dont provide startingIndex but only provide endingIndex i.e [ : endingIndex], python takes 0th index as the startingIndex
 
-  when we only provide startingIndex but don't provide endingIndex, python automatically takes length of the string as endingIndex
+  when we only provide startingIndex but don't provide endingIndex i.e [startingIndex : ], python automatically takes length of the string as endingIndex
 '''
 
 string = "HarvardCampus"

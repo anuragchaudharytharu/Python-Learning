@@ -17,7 +17,7 @@ print(collection) # {1, 2, 3, "mouse"}
 
 # .remove(element) ======> removes specified element. If the element to be removed is not present inside set, then it gives error
 collection.remove(3)
-print(collection) # {1, 2, 'mouse'}
+print(collection) # {1, 2, "mouse"}
 
 
 # .pop() =======> removes a random value

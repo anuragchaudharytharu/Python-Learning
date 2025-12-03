@@ -7,7 +7,7 @@
     
     By default:
         start = 0
-        step s1ze = +1
+        step size = +1
 '''
 
 print(range(5)) # output: range(0, 5). This is same as range(0, 5, 1)

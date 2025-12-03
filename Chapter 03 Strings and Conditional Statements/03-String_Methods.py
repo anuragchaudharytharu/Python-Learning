@@ -17,7 +17,7 @@ print(newStr) # I am a peogeammee.
 
 # .find(word) ======> returns 1st index of 1st occurer
 str1 = "I am studying Python from Harvard Python Course"
-print(str1.find("Python")) # 14 ======> Python start from 5th index position in the string
+print(str1.find("Python")) # 14 ======> Python start from 14th index position in the string
 
 # .count(word) ======> counts the occurances of substr
 str2 = "I am studying Python from Harvard Python Course"
