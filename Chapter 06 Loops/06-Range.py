@@ -3,7 +3,7 @@
 
     Range function returns a sequence of numbers, starting from 0 by default, and increaments by 1 (by default), and stops before a specified number
             
-            range(start?, stop, step?)
+            range(start?, stop?, step?)
     
     By default:
         start = 0
