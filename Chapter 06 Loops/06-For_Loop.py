@@ -34,7 +34,7 @@ for char in str:
 name = "CristianoRonaldo"
 for char in name:
     if(char == "z"):
-        print("o found")
+        print("z found")
         break
 else: 
     print("END")
