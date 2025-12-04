@@ -22,21 +22,21 @@ print(dict.keys()) # dict_keys(['name', 'cgpa', 'marks', 12, True, 40.444, ('man
 
 
 # .len(variableName.values()) ======> returns total count/length of keys
-print(len(dict)) # 9 =====> length of key:value pairs
-print(len(dict.keys())) # 9 ======> total count/length of keys
+print(len(dict)) # 8 =====> length of key:value pairs
+print(len(dict.keys())) # 8 ======> total count/length of keys
 
 
 
 
 # .values() =======> returns all values 
-print(dict.values()) # dict_values(['Alan Murphy', 9.6, [98, 97, 95], True, 'Pass', 'float', 'fruits', {'fruit': 'mango', 'vegetables': 'brijal', 'sweets': 'chocolate', 'movie': 'The Godfather'}, 24]) 
+print(dict.values()) # dict_values(['Alan Murphy', 9.6, [98, 97, 95], True, 'Pass', 'float', 'fruits', {'fruit': 'mango', 'vegetables': 'brijal', 'sweets': 'chocolate', 'movie': 'The Godfather'}]) 
 
 
 
 
 # .len(variableName.values()) =====> returns total count/length of values
-print(len(dict)) # 9 =====> length of key:value pairs
-print(len(dict.values())) # 9 ======> toal count/length of values
+print(len(dict)) # 8 =====> length of key:value pairs
+print(len(dict.values())) # 8 ======> toal count/length of values
 
 
 
