@@ -1,3 +1,5 @@
+#  Write a program that handles the error when trying to open a file that does not exist.
+
 def fileNotFound(fileName):
     try:
         with open(fileName, "r") as file:
